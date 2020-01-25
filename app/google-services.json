@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947528944279",
+    "firebase_url": "https://farmershopping-47d48.firebaseio.com",
+    "project_id": "farmershopping-47d48",
+    "storage_bucket": "farmershopping-47d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947528944279:android:caffb83039ea3608f7b7d2",
+        "android_client_info": {
+          "package_name": "com.firstteamout.farmershopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947528944279-49pju1j60ehsckov8jkr6eqk1fpcviot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASCpKFy8fPeNX_4zJsJiAOsUNvlOIek2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947528944279-49pju1j60ehsckov8jkr6eqk1fpcviot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
